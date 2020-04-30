@@ -53,3 +53,7 @@ main {
 .button:hover {
   border-color: #505050;
 }
+
+.footer-contact-info {
+  margin: 6px;
+}
